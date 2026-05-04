@@ -1,3 +1,30 @@
 [submodule "vis-frontend"]
 	path = vis-frontend
 	url = git@github.com:extremexp-HORIZON/vis-frontend.git
+[submodule "engine"]
+	path = engine
+	url = git@github.com:extremexp-HORIZON/extremexp-experimentation-engine.git
+[submodule "vis-api"]
+	path = vis-api
+	url = git@github.com:extremexp-HORIZON/vis-api.git
+[submodule "portal"]
+	path = portal
+	url = git@github.com:extremexp-HORIZON/extremexp-portal.git
+[submodule "dal"]
+	path = dal
+	url = git@github.com:extremexp-HORIZON/extremexp-dal.git
+[submodule "fs"]
+	path = fs
+	url = git@github.com:extremexp-HORIZON/extremexp-fs.git
+[submodule "ide"]
+	path = ide
+	url = git@github.com:extremexp-HORIZON/extremexp-ide.git
+[submodule "dms"]
+	path = dms
+	url = git@github.com:extremexp-HORIZON/extremexp-dms.git
+[submodule "dsl"]
+	path = dsl
+	url = git@github.com:extremexp-HORIZON/extremexp-dsl-framework.git
+[submodule "metamodel"]
+	path = metamodel
+	url = git@github.com:extremexp-HORIZON/extremexp-workflow-metamodel.git

@@ -1,0 +1,3 @@
+[submodule "vis-frontend"]
+	path = vis-frontend
+	url = git@github.com:extremexp-HORIZON/vis-frontend.git
